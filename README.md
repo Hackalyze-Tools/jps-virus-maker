@@ -16,7 +16,7 @@ We **DO NOT** encourage or promote any illegal activity, misuse, or real-world a
 ## 🛠️ Tool Information
 
 - **Tool Name:** JPS Virus Maker  
-- **File Type:** ZIP archive (`JPS-VirusMaker.zip`)  
+- **File Type:** ZIP archive (`JPS Virus Maker.zip`)  
 - **Category:** Batch File Virus Generator  
 - **Purpose:** Create harmless test files to understand how batch-based prank scripts work
 
