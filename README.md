@@ -36,7 +36,7 @@ Click below to download the tool directly from this repository:
 
 🎬 Want to see how this tool works in real time?
 
-👉 Watch Full Demo on YouTube: (https://youtu.be/wXbPtAMq1Fg)
+👉 [Watch Now on Hackalyze](https://youtu.be/zt0jOGC8wCg)
 
 ---
 
