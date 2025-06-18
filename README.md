@@ -53,7 +53,6 @@ Click below to download the tool directly from this repository:
 If you face any issue with the tool or want more ethical hacking content:
 
 📩 **Subscribe to [Hackalyze on YouTube](https://youtube.com/@Hackalyze)**  
-📧 Contact: hackalyzeofficial@gmail.com
 
 ---
 
